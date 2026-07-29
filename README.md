@@ -51,12 +51,10 @@ This public repository contains:
 | File | Description |
 |---|---|
 | `EGM_Executive_Summary.md` | Executive overview of EGM v3.0 — guarantees, verification methodology, and framework mapping |
-| `CHANGELOG.md` | Version history and engineering evolution of EGM |
+| `CHANGELOG.md` | Version history and engineering evolution of EGM, from v1.0 through v3.0 |
 | `GLOSSARY.md` | Definitions of key terms used throughout the EGM specification |
-| `CITATION.cff` | Citation format for referencing EGM in research and publications |
-| `LICENSE` | License governing this repository |
-| `LICENSE-code` | License governing any code artifacts |
-| `LICENSE-docs` | License governing documentation artifacts |
+| `CITATION.cff` | Machine-readable citation metadata for referencing EGM in research and publications |
+| `LICENSE` | License governing this repository. All rights reserved; reuse requires written permission |
 
 The complete technical specification — including full guarantee definitions, adversarial test suites, conformance check documentation, implementation guidance, reference implementation, and architecture diagrams — is available upon request.
 
@@ -94,7 +92,7 @@ Explore the full BridgeCore AI Knowledge Architecture at [bridgecore-ai.com/fram
 
 ## Citation
 
-If you reference EGM in research, publications, or organizational governance documentation, please use the citation format in `CITATION.cff`.
+If you reference EGM in research, publications, or organizational governance documentation, please use the citation metadata in [`CITATION.cff`](./CITATION.cff).
 
 ---
 

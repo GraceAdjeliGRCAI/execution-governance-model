@@ -1,0 +1,28 @@
+cff-version: 1.2.0
+message: "If you reference this work, please cite it using the metadata below."
+type: software
+title: "Execution Governance Model (EGM)"
+version: "3.0"
+date-released: "2026-01-01"
+url: "https://github.com/GraceAdjeliGRCAI/execution-governance-model"
+repository-code: "https://github.com/GraceAdjeliGRCAI/execution-governance-model"
+abstract: >
+  The Execution Governance Model (EGM) is the first formally specified and
+  adversarially verified runtime governance framework for AI systems. EGM
+  closes the gap between AI governance policy and enforceable runtime
+  controls by embedding governance enforcement directly into AI execution.
+  Version 3.0 establishes six formally specified governance guarantees,
+  verified through 57 adversarial tests and 21 conformance checks, and maps
+  each guarantee to corresponding requirements in NIST SP 800-53, the OWASP
+  AI Security Top 10, ISO/IEC 42001, the EU AI Act, and the NIST AI RMF.
+authors:
+  - family-names: "Adjeli"
+    given-names: "Grace"
+    affiliation: "BridgeCore AI LLC"
+keywords:
+  - AI governance
+  - runtime governance
+  - AI risk management
+  - responsible AI
+  - AI accountability
+license: "LicenseRef-BridgeCore-AI-All-Rights-Reserved"

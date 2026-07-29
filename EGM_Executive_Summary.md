@@ -93,13 +93,13 @@ Access is granted to organizations and researchers engaged in serious AI governa
 
 ## Citation
 
-If you reference EGM in research, publications, or organizational governance documentation, please use the citation format in `CITATION.cff`.
+If you reference EGM in research, publications, or organizational governance documentation, please use the citation metadata in [`CITATION.cff`](./CITATION.cff).
 
 ---
 
 ## License
 
-This executive summary is published under the terms in `LICENSE` and `LICENSE-docs`.
+This executive summary and this repository are published under the terms in [`LICENSE`](./LICENSE). All rights reserved.
 The full technical specification and reference implementation are subject to separate licensing terms available upon request.
 
 ---
