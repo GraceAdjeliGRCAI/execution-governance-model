@@ -12,7 +12,7 @@ The Execution Governance Model (EGM) is the first formally specified and adversa
 EGM is derived from the BridgeCore Governance Engineering Methodology™ (BGEM) and published through the Governance Systems Engineering Lab (GSEL). It closes the gap between AI governance policy and enforceable runtime controls — embedding governance enforcement directly into AI execution rather than relying on periodic audits or policy documentation alone.
 
 **Current Version:** v3.0
-**Status:** Published
+**Status:** Public Summary Available (full specification available upon request)
 **6 Verified Guarantees | 57 Adversarial Tests | 21 Conformance Checks**
 
 ---
